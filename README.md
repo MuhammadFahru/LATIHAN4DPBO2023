@@ -13,6 +13,7 @@ Bismillah Saya Muhammad Fahru Rozi [2108927] mengerjakan soal Latihan Praktikum 
 
 ## Desain Program
 
+![UML-Latihan 4](https://user-images.githubusercontent.com/59097913/223089919-0aabdc85-a52b-478b-942e-a5f0abad2a59.jpg)
 ...
 
 ## Penjelasan Alur
@@ -21,4 +22,4 @@ Bismillah Saya Muhammad Fahru Rozi [2108927] mengerjakan soal Latihan Praktikum 
 
 ## Dokumentasi
 
-...
+![Output](https://user-images.githubusercontent.com/59097913/223090006-d8040fe5-2db4-4d20-af31-7f3160423f7d.png)
