@@ -24,3 +24,33 @@ Bismillah Saya Muhammad Fahru Rozi [2108927] mengerjakan soal Latihan Praktikum 
 
 ![Output 1](https://user-images.githubusercontent.com/59097913/223091634-b2aa0ea9-6634-4b75-9575-4ce55a9e5dce.png)
 ![Output 2](https://user-images.githubusercontent.com/59097913/223091627-22056788-c2e6-497f-aa2d-2aa5f67342dd.png)
+
+## Run Program
+
+1. C++
+
+   ```sh
+   g++ *.cpp -o run && run
+   ```
+
+2. Java
+
+   ```sh
+   javac *.java
+   ```
+   
+   ```sh
+   java Main
+   ```
+
+3. PHP
+
+   ```sh
+   http://localhost/[directory]
+   ```
+
+4. Python
+
+   ```sh
+   py Main.py
+   ```
